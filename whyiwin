@@ -19,5 +19,4 @@ try {
     Invoke-Expression $payload
 }
 catch {
-    # เงียบ ไม่แสดง error ใด ๆ
 }
